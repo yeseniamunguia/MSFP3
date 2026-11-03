@@ -531,7 +531,7 @@ Se propone conservar los archivos en la raíz del repositorio para que funcionen
 | [Controlador.png](Controlador.png) | Parámetros y desempeño del controlador en PID Tuner | Revisado |
 | [Munguia23212217.py](Munguia23212217.py) |  Implementación computacional y generación de la figura | Incorporar archivo y nombre definitivo |
 | [impulso_unitario_python.pdf](impulso_unitario_python.pdf) |  Misma comparación de señales que en MATLAB | Incorporar archivo y nombre definitivo |
-| [BioRenderMusculoesquelético.pdf](BioRenderMusculoesquelético.pdf) | Correspondencia biológica, mecánica y eléctrica | Incorporar archivo y nombre definitivo |
+| [BioRenderMusculoesquelético.png](BioRenderMusculoesquelético.png) | Correspondencia biológica, mecánica y eléctrica | Incorporar archivo y nombre definitivo |
 | `README.md` | Reporte y guía de reproducción | Este documento |
 | `CITATION.cff` | Información de autoría y citación del repositorio | Incorporar según lo solicitado en el instructivo |
 
