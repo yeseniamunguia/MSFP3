@@ -528,10 +528,10 @@ Se propone conservar los archivos en la raíz del repositorio para que funcionen
 | [Munguia23212217.mlx](Munguia23212217.mlx) | Cuaderno computacional | Revisado |
 | [Munguia23212217.pdf](Munguia23212217.pdf) | Exportación del cuaderno | Revisado |
 | [Caso_Control_matlab.pdf](Caso_Control_matlab.pdf) | Figura de entrada, control, caso y caso con PI | Revisado |
-| [IMG_0591.png](IMG_0591.png) | Parámetros y desempeño del controlador en PID Tuner | Revisado |
-| Código Python `.py` | Implementación computacional y generación de la figura | Incorporar archivo y nombre definitivo |
-| Figura de Python | Misma comparación de señales que en MATLAB | Incorporar archivo y nombre definitivo |
-| Diagrama BioRender | Correspondencia biológica, mecánica y eléctrica | Incorporar archivo y nombre definitivo |
+| [Controlador.png](Controlador.png) | Parámetros y desempeño del controlador en PID Tuner | Revisado |
+| [Munguia23212217.py](Munguia23212217.py) |  Implementación computacional y generación de la figura | Incorporar archivo y nombre definitivo |
+| [impulso_unitario_python.pdf](impulso_unitario_python.pdf) |  Misma comparación de señales que en MATLAB | Incorporar archivo y nombre definitivo |
+| [BioRenderMusculoesquelético.pdf](BioRenderMusculoesquelético.pdf) | Correspondencia biológica, mecánica y eléctrica | Incorporar archivo y nombre definitivo |
 | `README.md` | Reporte y guía de reproducción | Este documento |
 | `CITATION.cff` | Información de autoría y citación del repositorio | Incorporar según lo solicitado en el instructivo |
 
