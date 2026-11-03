@@ -53,7 +53,7 @@ La gráfica entregada muestra una respuesta rápida del control y una respuesta 
 
 La práctica se desarrolla mediante **simulación in silico**. La denominación «tratamiento» utilizada en la gráfica identifica al caso con controlador y tiene un sentido académico dentro del modelo.
 
-**Palabras clave:** sistema musculoesquelético; analogía fuerza–voltaje; superposición; función de transferencia; estabilidad; controlador PI; MATLAB; Simulink; Simscape Electrical; Python.
+**Palabras clave:** Sistema musculoesquelético; Circuito RC; controlador PI; Modelo matemático; Simulaciones numéricas.
 
 ---
 
@@ -529,9 +529,9 @@ Se propone conservar los archivos en la raíz del repositorio para que funcionen
 | [Munguia23212217.pdf](Munguia23212217.pdf) | Exportación del cuaderno | Revisado |
 | [Caso_Control_matlab.pdf](Caso_Control_matlab.pdf) | Figura de entrada, control, caso y caso con PI | Revisado |
 | [Controlador.png](Controlador.png) | Parámetros y desempeño del controlador en PID Tuner | Revisado |
-| [Munguia23212217.py](Munguia23212217.py) |  Implementación computacional y generación de la figura | Incorporar archivo y nombre definitivo |
-| [impulso_unitario_python.pdf](impulso_unitario_python.pdf) |  Misma comparación de señales que en MATLAB | Incorporar archivo y nombre definitivo |
-| [BioRenderMusculoesquelético.png](BioRenderMusculoesquelético.png) | Correspondencia biológica, mecánica y eléctrica | Incorporar archivo y nombre definitivo |
+| [Munguia23212217.py](Munguia23212217.py) |  Implementación computacional y generación de la figura | Revisado  |
+| [impulso_unitario_python.pdf](impulso_unitario_python.pdf) |  Misma comparación de señales que en MATLAB | Revisado  |
+| [BioRenderMusculoesquelético.png](BioRenderMusculoesquelético.png) | Correspondencia biológica, mecánica y eléctrica | Revisado  |
 | `README.md` | Reporte y guía de reproducción | Este documento |
 | `CITATION.cff` | Información de autoría y citación del repositorio | Incorporar según lo solicitado en el instructivo |
 
