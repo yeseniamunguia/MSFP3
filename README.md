@@ -474,6 +474,7 @@ El BioRender forma parte de la entrega y relaciona las estructuras musculoesquel
 
 El diagrama debe mostrar estas correspondencias sin confundir los desplazamientos con la salida eléctrica $F_s(t)$ utilizada en el análisis. La figura de BioRender se incorporará al repositorio con su nombre definitivo; no estaba incluida entre los archivos revisados para esta versión.
 
+| [BioRenderMusculoesquelético.png](BioRenderMusculoesquelético.png) |
 ---
 
 <a id="conclusiones"></a>
