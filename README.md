@@ -408,7 +408,7 @@ La captura se conserva como evidencia de sintonización. Al ejecutar el `.slx` s
 
 Estos indicadores corresponden a la **prueba de seguimiento de escalón del sintonizador**, no a una medición directa de la figura completa con entrada de pulso.
 
-![Parámetros y desempeño del PI](IMG_0591.png)
+![Parámetros y desempeño del PI](Controlador.png)
 
 ---
 
